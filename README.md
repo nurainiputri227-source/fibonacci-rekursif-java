@@ -29,3 +29,4 @@
 
     Nama : Putri Nuraini
     NPM  : 25161562014
+<img width="4500" height="3375" alt="Foto Putri Nuraini" src="https://github.com/user-attachments/assets/c93ad73d-f6b4-4dbb-9da6-c1fd88b1278d" />
